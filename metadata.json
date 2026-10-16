@@ -1,0 +1,6 @@
+{
+  "name": "DADA BET - Sportsbook Platform",
+  "description": "DADA BET full-stack sports betting platform featuring live & pre-match football markets, interactive betslip, server-authoritative wallet ledger, odds engine, and compliance controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
